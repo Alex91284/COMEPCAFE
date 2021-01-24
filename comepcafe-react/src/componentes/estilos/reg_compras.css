@@ -1,0 +1,345 @@
+@media screen and (min-width:1201px){
+  #contenedor-compras {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 50%;
+    margin-top: 5%;
+    margin-left: 25%;
+  }
+  #media  {
+    height: 14%;
+  }
+  #atras-compras {
+    margin-top:-4%;
+    width: 6%;
+    height: 6%;
+  }
+  #txt-atras-compras {
+    font-size: 1em;
+    margin-left: 0.5%;
+  }
+  #GridForm-Compras {
+    width: 80%;
+    margin-left: 10%;
+  }
+  #txt-labels-Com {
+    margin-top: 2%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #sel-identi {
+  margin-top: -12%;
+  margin-bottom: -35%;
+  }
+  #identificacion {
+    color: #9E9E9E ;
+  }
+  #txt-row {
+    color: #767575;
+  }
+  #txt-labelsC-Com {
+    margin-top: -20%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #cod-fac-compra{
+    margin-top: -12%;
+  }
+  #txt-labelsK-Com {
+    margin-top: -20%;
+    margin-bottom: 5%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #num-kilos {
+    margin-top: -2.5%;
+  }
+  #txt-labelsP-Com {
+    margin-top: -20%;
+    margin-bottom: 5%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #valor-kilo {
+    margin-top: -2.5%;
+  }
+  #fecha-compra {
+    margin-top: 0%;
+  }
+  #txt-fec-venta {
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #tipo {
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #radio {
+    margin-left: 3%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #comproV {
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #txt-buscar-compra {
+    font-size: 1em;
+  }
+  #codigo-fac {
+    width: 60%;
+  }
+  #txt-guardar-com {
+    font-size: 1em;
+  }
+  #img-guardar-com {
+    margin-left: 0%;
+  }
+}
+@media screen and (min-width:901px) and (max-width:1200px){
+
+}
+@media screen and (min-width:769px) and (max-width:900px){
+
+}
+@media screen and (min-width:603px) and (max-width: 768px){
+  #contenedor-compras {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media  {
+    height: 14%;
+  }
+  #atras-compras {
+    margin-top:-4%;
+    width: 7%;
+    height: 7%;
+  }
+  #txt-atras-compras {
+    font-size: 1em;
+    margin-left: 0.5%;
+  }
+  #GridForm-Compras {
+    width: 80%;
+    margin-left: 10%;
+    margin-top: -9%;
+  }
+  #txt-labels-Com {
+    margin-top: 2%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #sel-identi {
+  margin-top: -2%;
+  margin-bottom: -35%;
+  }
+  #identificacion {
+    color: #9E9E9E ;
+  }
+  #txt-row {
+    color: #767575;
+  }
+  #txt-labelsC-Com {
+    margin-top: -20%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #cod-fac-compra{
+    margin-top: 1.5%;
+  }
+  #txt-labelsK-Com {
+    margin-top: -20%;
+    margin-bottom: 5%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #num-kilos {
+    margin-top: -2.5%;
+  }
+  #txt-labelsP-Com {
+    margin-top: -20%;
+    margin-bottom: 5%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #valor-kilo {
+    margin-top: -2.5%;
+  }
+  #fecha-compra {
+    margin-top: 0%;
+  }
+  #txt-fec-venta {
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #tipo {
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #radio {
+    margin-left: 3%;
+    font-size: 1em;
+  }
+  #comproV {
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #txt-buscar-compra {
+    font-size: 1em;
+  }
+  #codigo-fac {
+    width: 60%;
+  }
+  #txt-guardar-com {
+    font-size: 1em;
+  }
+  #img-guardar-com {
+    margin-left: 0%;
+  }
+}
+@media screen and (min-width:481px) and (max-width: 602px){
+
+}
+@media screen and (min-width:321px) and (max-width: 480px){
+  #contenedor-compras {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media  {
+    height: 14%;
+  }
+  #atras-compras {
+    margin-top:-4%;
+    width: 10%;
+    height: 7%;
+  }
+  #txt-atras-compras {
+    font-size: 0.95em;
+    margin-left: 0.5%;
+  }
+  #GridForm-Compras {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: -20%;
+  }
+  #txt-labels-Com {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #identificacion {
+    color: #9E9E9E ;
+    margin-bottom: -4%;
+  }
+  #txt-row {
+    color: #767575;
+  }
+  #txt-labelsC-Com {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #cod-fac {
+    margin-top: -3%;
+  }
+  #txt-labelsK-Com {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #num-kilos {
+    margin-top: 2%;
+  }
+  #txt-labelsP-Com {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #valor-kilo {
+    margin-top: 2%;
+  }
+  #txt-fec-venta {
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #fecha-compra {
+    color: #9E9E9E;
+    margin-top: 2%;
+  }
+  #tipo {
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #radio {
+    margin-left: 3%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #comproV {
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #txt-buscar-compra {
+    font-size: 0.95em;
+  }
+  #codigo-fac {
+    width: 60%;
+  }
+  #txt-guardar-com {
+    font-size: 0.95em;
+  }
+  #img-guardar-com {
+    margin-left: 0%;
+  }
+}
+@media screen and (max-width:320px){
+
+}

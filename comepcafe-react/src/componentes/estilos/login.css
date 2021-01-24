@@ -1,0 +1,156 @@
+#containerLogin{
+    width: 27%;
+    margin-top: 6%;
+    border-radius: 10px;
+}
+#logo1{
+  width:150px;
+  height: 150px;
+}
+#usuario-img {
+  margin-top: 23%
+}
+#txt-Usuario-correo{
+  margin-top: -3%;
+  color: #9E9E9E;
+  margin-left: 2%;
+  font-size: 1em;
+  font-family: 'Lora';
+}
+#contra-img {
+  margin-top: 33%;
+}
+#txt-contraseña {
+  margin-top: -3%;
+  color: #9E9E9E;
+  margin-left: 2%;
+  font-size: 1em;
+  font-family: 'Lora';
+}
+#olvido {
+  margin-top: -3%;
+  margin-left: 2%;
+  font-size: 1em;
+  font-family: 'Lora';
+}
+@media screen and (min-width:901px) and (max-width:1200px){
+}
+@media screen and (min-width:769px) and (max-width:900px){
+}
+@media screen and (min-width:603px) and (max-width: 768px){
+  #containerLogin{
+    padding: 0;
+    display: block;
+    margin-top: 5%;
+    width: 100%;
+  }
+  #logo1{
+    width:150px;
+    height: 150px;
+  }
+  #txt-Usuario-correo{
+    margin-top: -3%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #contra-img {
+    margin-top: 33%;
+  }
+  #txt-contraseña {
+    margin-top: -3%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #olvido {
+    margin-top: -3%;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+}
+@media screen and (min-width:481px) and (max-width: 602px){
+  #containerLogin{
+    padding: 0;
+    display: block;
+    margin-top: 5%;
+    width: 100%;
+  }
+  #logo1{
+    width:150px;
+    height: 150px;
+  }
+  #txt-Usuario-correo{
+    margin-top: -3%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #contra-img {
+    margin-top: 33%;
+  }
+  #txt-contraseña {
+    margin-top: -3%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #olvido {
+    margin-top: -3%;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+}
+@media only screen and (max-width:481px){
+  #containerLogin{
+    padding: 0;
+    display: block;
+    margin-top: 13.5%;
+    width: 100%;
+  }
+  #logo1{
+    width:150px;
+    height: 150px;
+  }
+  #txt-Usuario-correo{
+    margin-top: -3%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #contra-img {
+    margin-top: 33%;
+  }
+  #txt-contraseña {
+    margin-top: -3%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #olvido {
+    margin-top: -3%;
+    margin-left: 2%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+}
+@media screen and (max-width:320px){
+  #containerLogin{
+    padding: 0;
+    display: block;
+    margin-top: 14%;
+    width: 100%;
+  }
+  #logo1{
+    width:150px;
+    height: 150px;
+  }
+}

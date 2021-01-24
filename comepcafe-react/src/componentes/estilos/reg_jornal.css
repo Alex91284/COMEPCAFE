@@ -1,0 +1,341 @@
+@media screen and (min-width:1201px){
+  #contenedor-jornal {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 50%;
+    margin-top: 5%;
+    margin-left: 25%;
+  }
+  #media {
+    height: 14%;
+  }
+  #atras-jornal {
+    margin-top:-4%;
+    width: 6%;
+    height: 6%;
+  }
+  #txt-atras-jornal {
+    font-size: 1em;
+  }
+  #GridForm-Jornal{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: -10%;
+  }
+  #txt-fec-jornal {
+    color: #9E9E9E;
+    margin-left: 1%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #fecha-jornal{
+    margin-top: 0%;
+  }
+  #txt-horaI-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 1%;
+  }
+  #hora-inicio-j {
+    margin-right: 2%;
+      margin-top: 0%;
+  }
+  #txt-Valor-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 0%
+  }
+  #valor-hora {
+    margin-top: 0%;
+  }
+  #txt-identi-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 0%
+  }
+  #identificacion {
+    margin-top: 0%;
+    margin-bottom: -35%;
+  }
+  #txt-horaF-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 2%;
+  }
+  #hora-fin-jornal {
+    margin-top: 0%;
+    margin-right: 0%;
+  }
+  #gastos {
+    width: 10%
+  }
+  #img-gastos {
+    width: 50%;
+    height: 50%;
+  }
+  #txt-img-gastos {
+    font-size: 1em;
+    margin-top: 2.5%;
+    color: #9E9E9E;
+  }
+  #txt-det-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: -3%;
+    margin-left: 0%;
+  }
+  #detalle-jornal {
+    margin-top: 0%;
+  }
+  #txt-comproJornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+  }
+  #txt-buscar-jornal {
+    font-size: 1em;
+  }
+  #txt-guardar-jornal {
+    font-size: 1em;
+  }
+}
+@media screen and (min-width:901px) and (max-width:1200px){
+
+}
+@media screen and (min-width:769px) and (max-width:900px){
+
+}
+@media screen and (min-width:603px) and (max-width: 768px){
+  #contenedor-jornal {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media {
+    height: 14%;
+  }
+  #atras-jornal {
+    margin-top:-4%;
+  }
+  #txt-atras-jornal {
+    font-size: 1em;
+  }
+  #GridForm-Jornal{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: -9%;
+  }
+  #txt-fec-jornal {
+    color: #9E9E9E;
+    margin-left: 1%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #fecha-jornal{
+    margin-top: 0%;
+  }
+  #txt-horaI-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 1%;
+  }
+  #hora-inicio-j {
+    margin-right: 2%;
+      margin-top: 0%;
+  }
+  #txt-Valor-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 0%
+  }
+  #valor-hora {
+    margin-top: 0%;
+  }
+  #txt-identi-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 0%
+  }
+  #identificacion {
+    margin-top: 0%;
+    margin-bottom: -35%;
+  }
+  #txt-horaF-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 2%;
+  }
+  #hora-fin-jornal {
+    margin-top: 0%;
+    margin-right: 0%;
+  }
+  #gastos {
+    width: 10%
+  }
+  #img-gastos {
+    width: 50%;
+    height: 50%;
+  }
+  #txt-img-gastos {
+    font-size: 1em;
+    margin-top: 2.5%;
+    color: #9E9E9E;
+  }
+  #txt-det-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: -3%;
+    margin-left: 0%;
+  }
+  #detalle-jornal {
+    margin-top: 0%;
+  }
+  #txt-comproJornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+  }
+  #txt-buscar-jornal {
+    font-size: 1em;
+  }
+  #txt-guardar-jornal {
+    font-size: 1em;
+  }
+}
+@media screen and (min-width:481px) and (max-width: 602px){
+
+}
+@media screen and (min-width:321px) and (max-width: 480px){
+  #contenedor-jornal {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media {
+    height: 14%;
+  }
+  #atras-jornal {
+    margin-top:-4%;
+  }
+  #txt-atras-jornal {
+    font-size: 0.9em;
+  }
+  #GridForm-Jornal{
+    width: 70%;
+    margin-left: 15%;
+    margin-top: -20%;
+  }
+  #txt-fec-jornal {
+    color: #9E9E9E;
+    margin-left: 1%;
+    font-size: 1em;
+    font-family: 'Lora';
+  }
+  #fecha-jornal{
+    margin-top: 0%;
+  }
+  #txt-horaI-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 1%;
+  }
+  #hora-inicio-j {
+    margin-right: 2%;
+      margin-top: 0%;
+  }
+  #txt-Valor-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 0%
+  }
+  #valor-hora {
+    margin-top: 0%;
+  }
+  #txt-identi-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 0%
+  }
+  #identificacion {
+    margin-top: 0%;
+    margin-bottom: -8%;
+  }
+  #txt-horaF-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+    margin-left: 2%;
+  }
+  #hora-fin-jornal {
+    margin-top: 0%;
+    margin-right: 0%;
+  }
+  #gastos {
+    width: 10%
+  }
+  #img-gastos {
+    width: 50%;
+    height: 50%;
+  }
+  #txt-img-gastos {
+    font-size: 1em;
+    margin-top: 2.5%;
+    color: #9E9E9E;
+  }
+  #txt-det-jornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: -3%;
+    margin-left: 0%;
+  }
+  #detalle-jornal {
+    margin-top: 0%;
+  }
+  #txt-comproJornal {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-top: 2%;
+  }
+  #txt-buscar-jornal {
+    font-size: 1em;
+  }
+  #txt-guardar-jornal {
+    font-size: 1em;
+  }
+}
+@media screen and (max-width:320px){
+
+}

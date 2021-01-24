@@ -1,0 +1,226 @@
+@media screen and (min-width:1201px){
+  #conten-contacto {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 50%;
+    margin-top: 8%;
+    margin-left: 25%;
+  }
+  #media {
+    height: 14%;
+  }
+  #atras-contacto {
+    margin-top:-4%;
+  }
+  #txt-atras-contacto {
+    font-size: 0.8em;
+  }
+  #txt-titulo {
+    margin-top: -3%;
+    margin-left: 20%;
+  }
+  #txt-mensajeRes{
+    font-size: 0.8em;
+    font-family: 'Lora';
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: justify;
+  }
+  #idDocuRes {
+    width: 65%;
+    margin-left: 0%;
+  }
+  #correoRes {
+    width: 65%;
+    margin-left: 0%;
+  }
+  #txt-labelsI-usuRes {
+    font-size: 0.8em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-left: 35%;
+    margin-top: 5%;
+  }
+  #txt-labels-usuRes {
+    font-size: 0.8em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-left: 35%;
+    margin-top: 5%;
+  }
+  #btn-enviar-res {
+    width: 30%;
+  }
+}
+@media screen and (min-width:901px) and (max-width:1200px){
+}
+@media screen and (min-width:769px) and (max-width:900px){
+}
+@media screen and (min-width:603px) and (max-width: 768px){
+  #conten-contacto {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media {
+    height: 14%;
+  }
+  #atras-contacto {
+    margin-top:-4%;
+  }
+  #txt-atras-contacto {
+    font-size: 1em;
+  }
+  #txt-titulo {
+    font-size: 1.2em;
+    margin-top: -10%;
+    margin-left: 20%;
+  }
+  #txt-mensajeRes{
+    font-size: 0.95em;
+    font-family: 'Lora';
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: justify;
+  }
+  #idDocuRes {
+    width: 65%;
+    margin-left: 0%;
+  }
+  #correoRes {
+    width: 65%;
+    margin-left: 0%;
+  }
+  #txt-labelsI-usuRes {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-left: 35%;
+    margin-top: 5%;
+  }
+  #txt-labels-usuRes {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-left: 35%;
+    margin-top: 5%;
+  }
+  #btn-enviar-res {
+    width: 30%;
+    margin-bottom: 5%;
+  }
+}
+@media screen and (min-width:481px) and (max-width: 602px){
+}
+@media screen and (min-width:321px) and (max-width: 480px){
+  #conten-contacto {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media {
+    height: 14%;
+  }
+  #atras-contacto {
+    margin-top:-4%;
+  }
+  #txt-atras-contacto {
+    font-size: 1em;
+  }
+  #txt-titulo {
+    font-size: 1.2em;
+    margin-top: -15%;
+    margin-left: 20%;
+  }
+  #txt-mensajeRes{
+    font-size: 0.95em;
+    font-family: 'Lora';
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: justify;
+  }
+  #idDocuRes {
+    width: 65%;
+    margin-left: 15%;
+  }
+  #correoRes {
+    width: 65%;
+    margin-left: 15%;
+  }
+  #txt-labelsI-usuRes {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-left: 16%;
+    margin-top: 5%;
+  }
+  #txt-labels-usuRes {
+    font-size: 1em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-left: 16%;
+    margin-top: 5%;
+  }
+  #btn-enviar-res {
+    width: 30%;
+    margin-bottom: 5%;
+  }
+}
+@media screen and (max-width:320px){
+  #conten-contacto {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media {
+    height: 14%;
+  }
+  #atras-contacto {
+    margin-top:-4%;
+  }
+  #txt-atras-contacto {
+    font-size: 0.8em;
+  }
+  #txt-titulo {
+    margin-top: -3%;
+    margin-left: 20%;
+  }
+  #txt-mensajeRes{
+    font-size: 0.8em;
+    font-family: 'Lora';
+    margin-left: 20%;
+    margin-top: 5%;
+    text-align: justify;
+  }
+  #idDocuRes {
+    width: 65%;
+    margin-left: 0%;
+  }
+  #correoRes {
+    width: 65%;
+    margin-left: 0%;
+  }
+  #txt-labelsI-usuRes {
+    font-size: 0.8em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-left: 35%;
+    margin-top: 5%;
+  }
+  #txt-labels-usuRes {
+    font-size: 0.8em;
+    font-family: 'Lora';
+    color: #9E9E9E;
+    margin-left: 35%;
+    margin-top: 5%;
+  }
+  #btn-enviar-res {
+    width: 30%;
+  }
+}

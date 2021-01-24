@@ -1,0 +1,408 @@
+@media screen and (min-width:1201px){
+  #conteRegUsuario {
+    background-color:#F5F5F5;
+    border-radius: 2%;
+    max-width: 50%;
+    margin-top: 1%;
+    margin-left: 25%;
+  }
+  #media {
+    height: 14%,
+  }
+  #artas-Reg-Usu {
+    margin-top:-4%;
+    width: 6%;
+    height: 6%;
+  }
+  #txt-atrasRegUsu {
+    font-size: 0.95em;
+    margin-left: 0%;
+  }
+  #GridFormuR-USU {
+    width: 85%;
+    margin-left: 10%;
+    margin-top: -10%;
+  }
+  #txt-labels-usu {
+    margin-top: -3%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #txt-grupo-usu {
+      margin-top: -3%;
+      color: #9E9E9E;
+      margin-left: 2%;
+      font-size: 0.95em;
+      font-family: 'Lora';
+  }
+  #txt-labelsA-usu {
+    margin-top: -43%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #acopio {
+    width: 90%;
+    margin-bottom: -50%;
+  }
+  #txt-labelsR-usu {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #rol {
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+  }
+  #foto {
+    width: 75%;
+    height: 190%;
+    margin-top: 0%;
+    margin-left: 2%;
+    margin-bottom: -83%;
+  }
+  #txt-labelsI-usu {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #idDocu {
+    width: 90%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #txt-labelsC-usu {
+    margin-top: -33%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #codigoUsu {
+    width: 48%;
+    margin-left:0%;
+    margin-top: 0%;
+  }
+  #nom {
+    width: 90%;
+  }
+  #ape {
+    width: 90%;
+  }
+  #tel {
+    width: 90%;
+  }
+  #correo {
+    width: 90%;
+  }
+  #muni {
+    width: 90%;
+  }
+  #vere {
+    width: 90%;
+  }
+  #resgu {
+    width: 90%;
+  }
+  #finca {
+    width: 90%;
+  }
+  #buscarUsu {
+    margin-left: -15%;
+  }
+  #txt-buscarUsu {
+    margin-left: -15%;
+    font-size: 0.95em;
+  }
+  #guardarUsu {
+    margin-left: 22%;
+    margin-top: 0%;
+  }
+  #txt-guardarUsu {
+    margin-left: 24%;
+    margin-top: 0%;
+    font-size: 0.95em;
+  }
+}
+@media screen and (min-width:901px) and (max-width:1200px){
+
+}
+@media screen and (min-width:769px) and (max-width:900px){
+
+}
+@media screen and (min-width:603px) and (max-width: 768px){
+  #conteRegUsuario {
+    background-color:#F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media {
+    height: 14%,
+  }
+  #artas-Reg-Usu {
+    margin-top:-4%;
+    width: 6%;
+    height: 6%;
+  }
+  #txt-atrasRegUsu {
+    font-size: 1em;
+    margin-left: 0.5%;
+  }
+  #GridFormuR-USU {
+    width: 80%;
+    margin-left: 12%;
+  }
+  #txt-labels-usu {
+    margin-top: -3%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #txt-grupo-usu {
+      margin-top: -3%;
+      color: #9E9E9E;
+      margin-left: 2%;
+      font-size: 0.95em;
+      font-family: 'Lora';
+  }
+  #txt-labelsA-usu {
+    margin-top: -43%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #acopio {
+    width: 90%;
+    margin-bottom: -50%;
+  }
+  #txt-labelsR-usu {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #rol {
+    width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+  }
+  #foto {
+    width: 75%;
+    height: 190%;
+    margin-top: 0%;
+    margin-left: 2%;
+    margin-bottom: -83%;
+  }
+  #txt-labelsI-usu {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #idDocu {
+    width: 90%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #txt-labelsC-usu {
+    margin-top: -33%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.95em;
+    font-family: 'Lora';
+  }
+  #codigoUsu {
+    width: 48%;
+    margin-left:0%;
+    margin-top: 0%;
+  }
+  #nom {
+    width: 90%;
+  }
+  #ape {
+    width: 90%;
+  }
+  #tel {
+    width: 90%;
+  }
+  #correo {
+    width: 90%;
+  }
+  #muni {
+    width: 90%;
+  }
+  #vere {
+    width: 90%;
+  }
+  #resgu {
+    width: 90%;
+  }
+  #finca {
+    width: 90%;
+  }
+  #buscarUsu {
+    margin-left: -15%;
+  }
+  #txt-buscarUsu {
+    margin-left: -15%;
+    font-size: 0.95em;
+  }
+  #guardarUsu {
+    margin-left: 22%;
+    margin-top: 0%;
+  }
+  #txt-guardarUsu {
+    margin-left: 24%;
+    margin-top: 0%;
+    font-size: 0.95em;
+  }
+}
+@media screen and (min-width:481px) and (max-width: 602px){
+
+}
+@media screen and (min-width:321px) and (max-width: 480px){
+  #conteRegUsuario {
+    background-color:#F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media {
+    height: 14%,
+  }
+  #artas-Reg-Usu {
+    margin-top:-4%;
+    width: 10%;
+    height: 6%;
+  }
+  #txt-atrasRegUsu {
+    font-size: 0.9em;
+  }
+  #GridFormuR-USU {
+    width: 80%;
+    margin-left: 14%;
+    margin-top: -10%;
+  }
+  #txt-labelsA-usu {
+    margin-top: -55%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.9em;
+    font-family: 'Lora';
+  }
+  #acopio {
+    width: 103%;
+    margin-top: 0%;
+  }
+  #txt-labelsR-usu {
+    margin-top: 115%;
+    color: #9E9E9E;
+    margin-left: -224%;
+    font-size: 0.9em;
+    font-family: 'Lora';
+  }
+  #rol {
+    width: 220%;
+    margin-top: 0%;
+    margin-left: -228%;
+    margin-bottom: -25%;
+  }
+  #foto {
+    width: 145%;
+    height: 90%;
+    margin-top: 20%;
+    margin-left: -90%
+  }
+  #txt-labelsI-usu {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.9em;
+    font-family: 'Lora';
+  }
+  #idDocu {
+    width: 90%;
+  }
+  #txt-labelsC-usu {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.9em;
+    font-family: 'Lora';
+  }
+  #codigoUsu {
+    width: 90%;
+    margin-left:
+  }
+  #txt-labels-usu {
+    margin-top: -13%;
+    color: #9E9E9E;
+    margin-left: 2%;
+    font-size: 0.9em;
+    font-family: 'Lora';
+  }
+  #nom {
+    width: 90%;
+  }
+  #ape {
+    width: 90%;
+  }
+  #tel {
+    width: 90%;
+  }
+  #correo {
+    width: 90%;
+  }
+  #muni {
+    width: 90%;
+  }
+  #vere {
+    width: 90%;
+  }
+  #resgu {
+    width: 90%;
+  }
+  #finca {
+    width: 90%;
+  }
+  #buscarUsu {
+    margin-left: -70%;
+  }
+  #txt-buscarUsu {
+    margin-left: -70%;
+    font-size: 1em;
+  }
+  #guardarUsu {
+    margin-left: 60%;
+    margin-top: -52%;
+  }
+  #txt-guardarUsu {
+    margin-left: 62%;
+    margin-top: -20%;
+    font-size: 1em;
+  }
+  #img-guardar-Usu {
+    margin-top: 3%;
+    margin-bottom: 0%;
+  }
+}
+@media screen and (max-width:320px){
+
+}

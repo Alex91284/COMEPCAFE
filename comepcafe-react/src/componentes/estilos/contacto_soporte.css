@@ -1,0 +1,124 @@
+@media screen and (min-width:1201px){
+  #conten-contacto {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 50%;
+    margin-top: 8%;
+    margin-left: 25%;
+  }
+  #media {
+    height: 14%;
+  }
+  #atras-contacto {
+    margin-top:-4%;
+    width: 6%;
+    height: 6%;
+  }
+  #txt-atras-contacto {
+    font-size: 1.1em;
+    margin-left: 1%;
+  }
+  #txt-mensaje{
+    font-size: 1.1em;
+    font-family: 'Lora';
+    margin-left: 20%;
+    margin-top: -5%
+  }
+  #imgMesaAyuda{
+    width: 50%;
+  }
+  #txt-telefono1{
+    margin-top: -15%;
+    margin-bottom: 10%;
+    font-size: 1.1em;
+  }
+  #txt-telefono2{
+    margin-top: -15%;
+    margin-bottom: 10%;
+    font-size: 1.1em;
+  }
+}
+@media screen and (min-width:901px) and (max-width:1200px){
+}
+@media screen and (min-width:769px) and (max-width:900px){
+}
+@media screen and (min-width:603px) and (max-width: 768px){
+  #conten-contacto {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media {
+    height: 14%;
+  }
+  #atras-contacto {
+    margin-top:-4%;
+  }
+  #txt-atras-contacto {
+    font-size: 1em;
+  }
+  #txt-mensaje{
+    font-size: 1em;
+    font-family: 'Lora';
+    text-align: justify;
+    margin-left: 20%;
+    margin-top: -10%
+  }
+  #imgMesaAyuda{
+    width: 60%;
+  }
+  #txt-telefono1{
+    margin-top: -4%;
+    margin-bottom: 10%;
+    font-size: 1em;
+  }
+  #txt-telefono2{
+    margin-top: -4%;
+    margin-bottom: 10%;
+    font-size: 1em;
+  }
+}
+@media screen and (min-width:481px) and (max-width: 602px){
+}
+@media screen and (min-width:321px) and (max-width: 480px){
+  #conten-contacto {
+    background-color: #F5F5F5;
+    border-radius: 2%;
+    max-width: 100%;
+    margin-top: 0%;
+    margin-left: 0%;
+  }
+  #media {
+    height: 14%;
+  }
+  #atras-contacto {
+    margin-top:-4%;
+  }
+  #txt-atras-contacto {
+    font-size: 1em;
+  }
+  #txt-mensaje{
+    font-size: 0.95em;
+    font-family: 'Lora';
+    text-align: justify;
+    margin-left: 20%;
+    margin-top: -20%
+  }
+  #imgMesaAyuda{
+    width: 80%;
+  }
+  #txt-telefono1{
+    margin-top: -8%;
+    margin-bottom: 10%;
+    font-size: 0.95em;
+  }
+  #txt-telefono2{
+    margin-top: -8%;
+    margin-bottom: 10%;
+    font-size: 0.95em;
+  }
+}
+@media screen and (max-width:320px){
+}
